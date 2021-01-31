@@ -45,4 +45,4 @@ The result of the analysis and the analysis report for this project can be found
 
 ## Author, and Acknowledgement
 * Oluwatosin (Tosin) Obisan
-* All credits to Udacity, and FigureEight for providing the data set for this project.
+* All credits to Udacity for providing the data set for this project.
